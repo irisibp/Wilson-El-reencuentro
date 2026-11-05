@@ -213,7 +213,7 @@ namespace WilsonSubmarino
             try {
                 if(SystemInfo.graphicsDeviceType!=UnityEngine.Rendering.GraphicsDeviceType.Null)
                 {
-                    var cam=Object.FindFirstObjectByType<Camera>();cam.orthographicSize=7;
+                    var cam=Camera.main;cam.orthographicSize=7;
                     var rt=new RenderTexture(1536,896,24,RenderTextureFormat.ARGB32);rt.antiAliasing=1;
                     cam.targetTexture=rt;cam.Render();RenderTexture.active=rt;
                     var capture=new Texture2D(1536,896,TextureFormat.RGB24,false);capture.ReadPixels(new Rect(0,0,1536,896),0,0);capture.Apply();
@@ -223,7 +223,9 @@ namespace WilsonSubmarino
                     File.AppendAllText(Path.GetFullPath("../Wilson_Submarino_32_v1/Documentacion/VERIFICACION_UNITY.txt"),"Render de camara 1536x896 guardado; shader compilado sin errores.\n");
                 }
                 string dest=Path.GetFullPath("../Wilson_Submarino_32_v1/Wilson_Submarino_32.unitypackage");
-                AssetDatabase.ExportPackage(Root,dest,ExportPackageOptions.Recurse);
+                UnityEditor.AssetPackage.Package.Export(
+                    new UnityEditor.AssetPackage.ExportPackageParameters(
+                        Root, dest, string.Empty, ExportPackageOptions.Recurse));
                 EditorApplication.Exit(0);
             } catch(Exception e) {Debug.LogException(e);EditorApplication.Exit(1);}
         }

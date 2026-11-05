@@ -13,6 +13,9 @@ public class CoconutManager : MonoBehaviour
 
     private int cocosRecolectados = 0;
 
+    public int CocosRecolectados => cocosRecolectados;
+    public bool SalidaDesbloqueada => cocosRecolectados >= cocosNecesarios;
+
     void Awake()
     {
         if (Instance != null && Instance != this)
