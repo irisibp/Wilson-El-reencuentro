@@ -1,0 +1,3 @@
+Unity 6000.6.3f1
+3 corales peligrosos, checkpoint seguro, referencias enlazadas.
+3 trayectorias de salto validas sobre los peligros; 236 muestras contra colliders reales.

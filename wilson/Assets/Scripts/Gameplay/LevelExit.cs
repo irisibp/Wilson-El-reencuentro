@@ -50,7 +50,7 @@ public class LevelExit : MonoBehaviour
             ? other.attachedRigidbody.GetComponent<WilsonController>()
             : null;
         if (wilson == null) wilson = other.GetComponentInParent<WilsonController>();
-        if (wilson == null) return;
+        if (wilson == null || !wilson.isActiveAndEnabled) return;
 
         CoconutManager manager = CoconutManager.Instance;
         if (manager == null || !manager.SalidaDesbloqueada) return;

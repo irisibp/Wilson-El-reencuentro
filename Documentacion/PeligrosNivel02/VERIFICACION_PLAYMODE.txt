@@ -1,0 +1,2 @@
+Unity 6000.6.3f1
+PASS en Play Mode: contactos fisicos con coral; una sola reaparicion por fallo; retorno al inicio; salto pendiente limpiado; cocos y puntaje conservados; proteccion temporal; activacion fisica del checkpoint; segundo fallo vuelve al checkpoint; camara reencuadrada; salida desbloqueada y victoria; no revivir despues de ganar.

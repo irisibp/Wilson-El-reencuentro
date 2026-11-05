@@ -58,6 +58,16 @@ public class WilsonController : MonoBehaviour
         }
     }
 
+    public void ReiniciarMovimiento()
+    {
+        if (rb == null) rb = GetComponent<Rigidbody2D>();
+        movimiento = 0f;
+        enSuelo = false;
+        solicitarSalto = false;
+        rb.linearVelocity = Vector2.zero;
+        rb.angularVelocity = 0f;
+    }
+
     void OnDrawGizmosSelected()
     {
         if (detectorSuelo == null) return;

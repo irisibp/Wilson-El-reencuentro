@@ -10,6 +10,17 @@ public class CameraFollow : MonoBehaviour
 
     private Vector3 velocidad = Vector3.zero;
 
+    public void Reencuadrar()
+    {
+        if (objetivo == null) return;
+        velocidad = Vector3.zero;
+        transform.position = new Vector3(
+            Mathf.Clamp(objetivo.position.x, limiteIzquierdo, limiteDerecho),
+            transform.position.y,
+            -10f
+        );
+    }
+
     void LateUpdate()
     {
         if (objetivo == null) return;
