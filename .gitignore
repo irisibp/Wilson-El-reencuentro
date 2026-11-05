@@ -125,3 +125,8 @@ InitTestScene*.unity*
 # Local reference asset: Crusenho license prohibits redistribution.
 /wilson/Assets/Art/Tiles/tilemap_export.png
 /wilson/Assets/Art/Tiles/tilemap_export.png.meta
+
+# Local tutorial audio: individual asset licenses still need confirmation.
+# Keep .meta files so restoring the originals preserves clip references.
+/wilson/Assets/Audio/Local/**/*.wav
+/wilson/Assets/Audio/Local/**/*.ogg

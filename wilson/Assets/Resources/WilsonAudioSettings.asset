@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47c4a075aa0944ccb27b312c9245963c, type: 3}
+  m_Name: WilsonAudioSettings
+  m_EditorClassIdentifier: Assembly-CSharp::GameAudioSettings
+  volumenMusica: 0.18
+  volumenEfectos: 0.7
+  musica: {fileID: 8300000, guid: ea623e05233f1784bb199efe4b24b7a5, type: 3}
+  musicaNivel01: {fileID: 8300000, guid: ea623e05233f1784bb199efe4b24b7a5, type: 3}
+  musicaNivel02: {fileID: 8300000, guid: 00ef0ad06aaf4aa4b9373bf13860cedc, type: 3}
+  musicaGameOver: {fileID: 8300000, guid: 612c22d3669f46242bcbb1f275f31405, type: 3}
+  coco: {fileID: 8300000, guid: b0202b1eacaa77b4098d2cce7d328cf3, type: 3}
+  checkpoint: {fileID: 8300000, guid: b7bc187cdd68cff4a9f098bd2f0ceee4, type: 3}
+  fallo: {fileID: 8300000, guid: ece06d092315e9f4dbb49db180b5f75d, type: 3}
+  victoria: {fileID: 8300000, guid: ca9ab8462c0c6a9469857347c47cd9da, type: 3}
+  continuar: {fileID: 8300000, guid: 6f2e7db8a5aa45948b93250d7f42648d, type: 3}
+  desbloqueo: {fileID: 8300000, guid: 31c2ee33e1d5d6d4386be37da2d4f51b, type: 3}

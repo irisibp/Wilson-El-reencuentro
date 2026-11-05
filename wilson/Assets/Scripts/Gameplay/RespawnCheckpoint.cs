@@ -18,6 +18,7 @@ public class RespawnCheckpoint : MonoBehaviour
         var player = PlayerRespawn.DesdeCollider(other);
         if (player == null || !player.ActivarCheckpoint(puntoReaparicion)) return;
         Activado = true;
+        GameAudio.Sonar(GameSound.Checkpoint);
         if (indicador != null) indicador.color = new Color(.4f, 1f, .65f, 1f);
         if (textoMarcador != null)
         {

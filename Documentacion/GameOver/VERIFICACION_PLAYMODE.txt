@@ -1,0 +1,2 @@
+Unity 6000.6.3f1
+PASS: Star Way en nivel 1; victoria y Continuar cambian a Test Your Skills; 3 vidas; primeros dos fallos conservan cocos y checkpoint; tercer fallo bloquea movimiento y reproduce OMEN; sin reaparicion automatica ni vidas negativas; reintentar restaura 3 vidas, 14 cocos, contador 0 y checkpoint; regresa la musica del nivel 2; mismo servicio de audio y un listener.

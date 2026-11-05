@@ -1,0 +1,19 @@
+[
+  {
+    "path": "Assets/Audio/Local/Music/POL-star-way-short.wav",
+    "sha256": "0409745983d368b9001ed3cad375ffc8b1a11efcfdf69626570e1f2aad0d9da7",
+    "originalPreserved": true
+  },
+  {
+    "path": "Assets/Audio/Local/Music/POL-test-your-skills-short.wav",
+    "sha256": "0e44bb149b57a9c10ebb9c06eb97629f3b9eba9f774919676e07c52eac31f963",
+    "originalPreserved": true
+  },
+  {
+    "path": "Assets/Audio/ThirdParty/OMEN/OMEN_chip.WAV",
+    "sha256": "746c1ec3dcc5a91c46eab7bd0ec1ca5368d0b5bf3a99a0e009cd57868b45d1ec",
+    "license": "CC0",
+    "author": "madameberry",
+    "source": "https://opengameart.org/content/patreon-song-omen"
+  }
+]

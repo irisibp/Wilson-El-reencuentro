@@ -63,7 +63,7 @@ public static class Level02HazardsSetup
         {
             Debug.Log("El nivel 2 ya tiene peligros. No se crean duplicados.");return false;
         }
-        foreach(var map in UnityEngine.Object.FindObjectsByType<TilemapCollider2D>(FindObjectsSortMode.None))map.ProcessTilemapChanges();
+        foreach(var map in UnityEngine.Object.FindObjectsByType<TilemapCollider2D>())map.ProcessTilemapChanges();
         Physics2D.SyncTransforms();
         // Resolve every floor before changing the scene, so an edited layout fails cleanly.
         float[] xs={6f,24.5f,35.5f};float[] ys=xs.Select(Floor).ToArray();float checkpointFloor=Floor(17.5f);
@@ -74,7 +74,7 @@ public static class Level02HazardsSetup
         font=AssetDatabase.LoadAssetAtPath<TMP_FontAsset>("Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset");
         Undo.IncrementCurrentGroup();int group=Undo.GetCurrentGroup();Undo.SetCurrentGroupName("Agregar peligros y reaparicion al nivel 2");
         var respawn=player.GetComponent<PlayerRespawn>()??Undo.AddComponent<PlayerRespawn>(player.gameObject);
-        var hint=UnityEngine.Object.FindObjectsByType<TMP_Text>(FindObjectsSortMode.None).FirstOrDefault(t=>t.name=="Objetivo");
+        var hint=UnityEngine.Object.FindObjectsByType<TMP_Text>().FirstOrDefault(t=>t.name=="Objetivo");
         Undo.RecordObject(respawn,"Vincular aviso de reaparicion");respawn.estado=hint;PrefabUtility.RecordPrefabInstancePropertyModifications(respawn);
         if(hint!=null){Undo.RecordObject(hint,"Actualizar objetivo");hint.text="Evita los corales rojos. Conservas tus cocos al reaparecer.";}
         var root=Create("PeligrosNivel02");
@@ -99,7 +99,7 @@ public static class Level02HazardsSetup
     public static void ValidateStatic()
     {
         void Check(bool ok,string msg){if(!ok)throw new Exception("PELIGROS: "+msg);}
-        var hazards=UnityEngine.Object.FindObjectsByType<CoralHazard>(FindObjectsSortMode.None);
+        var hazards=UnityEngine.Object.FindObjectsByType<CoralHazard>();
         var point=UnityEngine.Object.FindAnyObjectByType<RespawnCheckpoint>();var player=UnityEngine.Object.FindAnyObjectByType<WilsonController>();
         Check(hazards.Length==3 && point!=null,"3 peligros y 1 checkpoint");
         Check(player.GetComponent<PlayerRespawn>().estado!=null,"aviso enlazado");

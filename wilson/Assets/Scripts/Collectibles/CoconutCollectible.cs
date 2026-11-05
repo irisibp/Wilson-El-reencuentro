@@ -24,6 +24,7 @@ public class CoconutCollectible : MonoBehaviour
 
             recolectado = true;
             CoconutManager.Instance.RecolectarCoco(valor);
+            GameAudio.Sonar(GameSound.Coco);
             Destroy(gameObject);
         }
     }

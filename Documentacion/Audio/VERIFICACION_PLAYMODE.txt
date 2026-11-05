@@ -1,0 +1,2 @@
+Unity 6000.6.3f1
+PASS en Play Mode: musica en bucle en AudioSource 2D; seis efectos en reproduccion; dos fuentes separadas; singleton sin duplicados; un listener habilitado por escena; eventos de coco, victoria, checkpoint y fallo; volumen atenuado al ganar y restaurado al continuar; misma fuente y avance de pista entre niveles; musica sigue durante la reaparicion.

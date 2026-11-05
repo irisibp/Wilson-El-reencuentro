@@ -42,6 +42,7 @@ public class CoconutManager : MonoBehaviour
 
     public void RecolectarCoco(int cantidad)
     {
+        bool estabaDesbloqueada = SalidaDesbloqueada;
         cocosRecolectados += cantidad;
         ActualizarContador();
 
@@ -49,6 +50,8 @@ public class CoconutManager : MonoBehaviour
         {
             if (salidaNivel != null)
                 salidaNivel.SetActive(true);
+
+            if (!estabaDesbloqueada) GameAudio.Sonar(GameSound.Desbloqueo);
 
             Debug.Log("¡Nivel desbloqueado!");
         }

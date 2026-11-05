@@ -1,0 +1,47 @@
+{
+  "packSource": "https://www.patreon.com/LuisCanary/posts/musica-y-sonidos-134940729",
+  "files": [
+    {
+      "file": "Assets/Audio/Local/Music/POL-spinning-gears-short.wav",
+      "sha256": "9c9df50ebea90c9daed4ebf79192a5a4cf7037ef57010c454cc5c66e86f363c5",
+      "source": "Musica/POL-spinning-gears-short.wav",
+      "originalBytesPreserved": true
+    },
+    {
+      "file": "Assets/Audio/Local/SFX/Coin2.ogg",
+      "sha256": "1f564f5520cfa0764028ce245ad97599d3ece8f0ab504554c403af92ac72b900",
+      "source": "Sonidos/Coin2.ogg",
+      "originalBytesPreserved": true
+    },
+    {
+      "file": "Assets/Audio/Local/SFX/confirmation_002.ogg",
+      "sha256": "33b17a9a9a2397c62b285c52c33a907fdffb476909c99e42dde603f6a7a8b12c",
+      "source": "Sonidos/confirmation_002.ogg",
+      "originalBytesPreserved": true
+    },
+    {
+      "file": "Assets/Audio/Local/SFX/confirmation_003.ogg",
+      "sha256": "3091bf0be0497f825769ee0733ca7bdc3bcd59bd6c6e8f2ba8f93d580ff38022",
+      "source": "Sonidos/confirmation_003.ogg",
+      "originalBytesPreserved": true
+    },
+    {
+      "file": "Assets/Audio/Local/SFX/confirmation_004.ogg",
+      "sha256": "568967a3d9f8a8f6af54ea01729c4882284308f2a27d78c07ffd7ee0d6951661",
+      "source": "Sonidos/confirmation_004.ogg",
+      "originalBytesPreserved": true
+    },
+    {
+      "file": "Assets/Audio/Local/SFX/error_007.ogg",
+      "sha256": "f1ee4c1ac8bfe1a82eacb54b26f49e8974bab93bcf10c01800bc10dbf730f559",
+      "source": "Sonidos/error_007.ogg",
+      "originalBytesPreserved": true
+    },
+    {
+      "file": "Assets/Audio/Local/SFX/toggle_004.ogg",
+      "sha256": "d7bf2236fc95a0fe1e3b278259392bcb062644e2d4ec5f9c96f7c09a9928262f",
+      "source": "Sonidos/toggle_004.ogg",
+      "originalBytesPreserved": true
+    }
+  ]
+}

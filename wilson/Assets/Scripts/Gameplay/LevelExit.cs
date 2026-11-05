@@ -28,6 +28,7 @@ public class LevelExit : MonoBehaviour
             return;
         }
         cargandoEscena = true;
+        GameAudio.Sonar(GameSound.Continuar);
         SceneManager.LoadSceneAsync(siguienteEscena, LoadSceneMode.Single);
     }
 
@@ -57,6 +58,7 @@ public class LevelExit : MonoBehaviour
 
         // Set first so multiple colliders and event callbacks cannot finish twice.
         NivelCompletado = true;
+        GameAudio.Sonar(GameSound.Victoria);
         mensajeVictoria = "¡Nivel completado!\n" + nombreNivel +
             "\nCocos: " + manager.CocosRecolectados + " / " + manager.cocosNecesarios;
 

@@ -18,7 +18,7 @@ Para deshacer la preparación de la escena, usar Ctrl+Z antes de realizar otras 
 - Al cruzar el marcador Punto seguro, el indicador se vuelve verde y dice Activado. Los siguientes fallos vuelven a ese lugar.
 - Cada fallo pausa el control durante 0,35 segundos. Tras reaparecer hay un segundo de protección con parpadeo.
 - Se conserva el puntaje y los cocos recogidos permanecen recogidos. La escena no se recarga; la salida conserva su estado de desbloqueo.
-- No hay límite de vidas ni pantalla de Game Over en esta versión.
+- Actualmente hay 3 vidas y Game Over con OMEN. Los dos primeros fallos conservan cocos y checkpoint; Reintentar nivel reinicia el recorrido. Ver Documentacion/GameOver/LEEME.md.
 - La cámara se reencuadra al reaparecer. Se limpian la velocidad y los saltos pendientes.
 - Los peligros no pueden reactivar a Wilson después de completar el nivel.
 

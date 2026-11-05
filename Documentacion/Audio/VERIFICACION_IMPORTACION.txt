@@ -1,0 +1,4 @@
+Unity 6000.6.3f1
+Musica: POL-spinning-gears-short, 13,24136 segundos, 2 canales, 22050 Hz.
+6 efectos importados y decodificados; contienen muestras de audio no silenciosas.
+Musica Streaming/Vorbis; efectos DecompressOnLoad/PCM; frecuencia original conservada.
