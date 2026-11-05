@@ -22,7 +22,7 @@ Se conservan el tamaño del collider, detector, velocidad, salto, gravedad y esc
 
 LevelExit mantiene la siguiente escena explícita cuando está configurada. Si ese campo está vacío, consulta la siguiente entrada habilitada en la lista de escenas de la build, únicamente cuando su nombre comienza por Nivel. Así la salida del nivel 2, que tenía el campo vacío, ahora conecta con el nivel 3 sin reescribir su escena.
 
-El orden es Nivel01_PerdidoEnElMar, Nivel02_CavernaDeCoral, Nivel03_RuinasSumergidas y después las demás escenas que ya hubiera, conservadas. SampleScene no se toma como nivel 4; la victoria de las ruinas queda como final actual.
+El orden actual es Nivel01_PerdidoEnElMar, Nivel02_CavernaDeCoral, Nivel03_RuinasSumergidas y Nivel04_LaPlaya, seguido de las demás escenas conservadas. Al completar las ruinas, Continuar carga la playa. SampleScene no se toma como un nivel jugable. Las verificaciones originales de esta carpeta registran el estado al crear el nivel 3; Documentacion/Nivel04 contiene las pruebas de la nueva conexión.
 
 Las escenas anteriores se conservan sin cambios en sus mapas ni objetos. Los cambios de código y orden de build se aplican al proyecto; la escena nueva es independiente.
 

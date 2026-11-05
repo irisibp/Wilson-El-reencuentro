@@ -1,0 +1,2 @@
+Unity 6000.6.3f1
+PASS: completar ruinas y continuar a playa; contador nuevo; 24 cocos/30 puntos; Star Way; checkpoint independiente; caidas fisicas en hueco de tres celdas; conservar puntos; tres vidas; Game Over y OMEN; reintento limpio; salida con 30 puntos; victoria final estable; SampleScene excluida; un listener.

@@ -15,6 +15,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Nivel03_RuinasSumergidas.unity
     guid: 0bebdb532b1adf14ca1c0c70a5831468
   - enabled: 1
+    path: Assets/Scenes/Nivel04_LaPlaya.unity
+    guid: 19ce6bec9bbe8c143abd1c3c814a215f
+  - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
   m_configObjects:

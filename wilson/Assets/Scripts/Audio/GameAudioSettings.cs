@@ -13,6 +13,7 @@ public class GameAudioSettings : ScriptableObject
     public AudioClip musicaNivel01;
     public AudioClip musicaNivel02;
     public AudioClip musicaNivel03;
+    public AudioClip musicaNivel04;
     public AudioClip musicaGameOver;
     [Header("Efectos")]
     public AudioClip coco;
@@ -27,6 +28,7 @@ public class GameAudioSettings : ScriptableObject
         if (scene == "Nivel01_PerdidoEnElMar" && musicaNivel01 != null) return musicaNivel01;
         if (scene == "Nivel02_CavernaDeCoral" && musicaNivel02 != null) return musicaNivel02;
         if (scene == "Nivel03_RuinasSumergidas" && musicaNivel03 != null) return musicaNivel03;
+        if (scene == "Nivel04_LaPlaya" && musicaNivel04 != null) return musicaNivel04;
         return musica;
     }
 

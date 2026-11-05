@@ -18,6 +18,7 @@ MonoBehaviour:
   musicaNivel01: {fileID: 8300000, guid: ea623e05233f1784bb199efe4b24b7a5, type: 3}
   musicaNivel02: {fileID: 8300000, guid: 00ef0ad06aaf4aa4b9373bf13860cedc, type: 3}
   musicaNivel03: {fileID: 8300000, guid: 00ef0ad06aaf4aa4b9373bf13860cedc, type: 3}
+  musicaNivel04: {fileID: 8300000, guid: ea623e05233f1784bb199efe4b24b7a5, type: 3}
   musicaGameOver: {fileID: 8300000, guid: 612c22d3669f46242bcbb1f275f31405, type: 3}
   coco: {fileID: 8300000, guid: b0202b1eacaa77b4098d2cce7d328cf3, type: 3}
   checkpoint: {fileID: 8300000, guid: b7bc187cdd68cff4a9f098bd2f0ceee4, type: 3}
