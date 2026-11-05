@@ -1,0 +1,15 @@
+Modo: image_gen integrado. Imágenes originales generadas como propuesta visual.
+No son recortes ni modificaciones del pack de Crusenho.
+
+BOCETO DE ASSETS
+Use case: stylized-concept.
+Asset type: original technical pixel art underwater terrain spritesheet for Unity 2D game Wilson El Reencuentro.
+Create an actual small pixel art tileset, NOT a presentation or illustrated asset showcase. Requested native canvas 256x128 pixels, precisely 8 columns by 4 rows of 32x32 pixel cells, transparent background. No text, labels, grid lines, shadows outside sprites, water backdrop, checkerboard or margins. Crisp pixel clusters and limited palette, no antialiasing.
+Top left 3x3 cells: a seamlessly connecting nine-slice rectangular block of pale warm sand with blue slate rock beneath: row0 top-left corner, top surface, top-right corner; row1 left wall, interior fill, right wall; row2 bottom-left corner, bottom edge, bottom-right corner. All terrain cells fill precisely the appropriate edges of their cell; shared edge pixels match.
+Columns3-5 rows0-2: another seamless nine-slice blue rock block with subtle teal growth, same ordering.
+Column6 rows0-2: separate standalone 32x32 pale sand block, standalone rock block, thin sand platform.
+Column7 rows0-2: small pink branching coral, purple coral, teal seaweed. Each contained within its cell with transparent surroundings and base aligned at bottom.
+Bottom row eight separate small underwater decoration sprites: red branching coral, violet tube sponge, green seaweed, turquoise seaweed, shell, blue stone, cluster of bubbles, starfish. Each contained in a 32x32 cell with transparent background. Side view for a readable friendly 2D underwater platform game, original art. Do not copy any existing pack. Actual strict uniform cell layout is essential.
+
+VISTA DEL NIVEL
+Use case: stylized-concept. Asset type: art direction mockup for Wilson El Reencuentro level Perdido en el mar. Wide side-view pixel art underwater platform game environment, NO character or UI or text. Clear readable pale sand walkable platforms over blue slate rock, pink and violet corals and teal seaweed rooted on sea floor. Three separated platforms at progressively higher heights with navigable open water between. Deep blue and turquoise water filling background, distant subdued underwater rock silhouettes, gentle shafts of sunlight from surface high above, a few tiny bubbles rising. Friendly adventure mood, restrained pixel art, flat orthographic camera, crisp square pixel clusters. Gameplay terrain distinctly brighter and sharper than background. Original scene, not from existing asset packs. This image is an illustrative example only, not a spritesheet. 16:9 landscape composition.

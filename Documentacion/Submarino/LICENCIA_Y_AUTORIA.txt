@@ -1,0 +1,11 @@
+Wilson — recursos submarinos originales, v1
+
+Entrega preparada para el proyecto Wilson-El-Reencuentro mediante referencias visuales generadas con image_gen y construcción técnica reproducible a escala nativa.
+
+Esta entrega no contiene imágenes, recortes ni derivados de los archivos de Crusenho. Los prompts originales y el código de construcción se incluyen para documentar el proceso. No se afirma exclusividad sobre el estilo, las técnicas de pixel art ni las formas naturales representadas.
+
+Los recursos y el código creados en esta entrega se proporcionan al usuario para usarlos, modificarlos y distribuirlos dentro de su proyecto, incluso comercial. No se exige atribución a Crusenho por estos archivos nuevos. Crédito opcional: “Arte submarino: producción asistida por IA para Wilson-El-Reencuentro”.
+
+No se asigna a esta entrega la licencia restrictiva del pack analizado. Si se incorporan otros archivos de ese pack al juego, conservar sus condiciones y el crédito correspondiente a Crusenho.
+
+El paquete de Unity contiene assets propios y referencias a los paquetes de Unity instalados en el proyecto. No redistribuye las implementaciones de RuleTile ni del editor de Tile Palette, cuya licencia corresponde a Unity.

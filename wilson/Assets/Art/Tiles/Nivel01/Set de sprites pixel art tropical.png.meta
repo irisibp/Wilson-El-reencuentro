@@ -1,0 +1,1998 @@
+fileFormatVersion: 2
+guid: a848815f635af874c921937ebfb4d615
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2947050577738808300
+    second: Set de sprites pixel art tropical_0
+  - first:
+      213: -4551253321475886171
+    second: Set de sprites pixel art tropical_1
+  - first:
+      213: -2568840581480080425
+    second: Set de sprites pixel art tropical_2
+  - first:
+      213: 2902446482287671150
+    second: Set de sprites pixel art tropical_3
+  - first:
+      213: 8923606174506608353
+    second: Set de sprites pixel art tropical_4
+  - first:
+      213: -8063818909318805054
+    second: Set de sprites pixel art tropical_5
+  - first:
+      213: 727577958255496674
+    second: Set de sprites pixel art tropical_6
+  - first:
+      213: 2763772546668432404
+    second: Set de sprites pixel art tropical_7
+  - first:
+      213: 1297440959446573734
+    second: Set de sprites pixel art tropical_8
+  - first:
+      213: -8713191690110497820
+    second: Set de sprites pixel art tropical_9
+  - first:
+      213: -1581368701739814093
+    second: Set de sprites pixel art tropical_10
+  - first:
+      213: -6861927187591793156
+    second: Set de sprites pixel art tropical_11
+  - first:
+      213: -2506474595836883082
+    second: Set de sprites pixel art tropical_12
+  - first:
+      213: 8587563457365604700
+    second: Set de sprites pixel art tropical_13
+  - first:
+      213: -156508291769529497
+    second: Set de sprites pixel art tropical_14
+  - first:
+      213: -9211374211096140149
+    second: Set de sprites pixel art tropical_15
+  - first:
+      213: 770676306191531132
+    second: Set de sprites pixel art tropical_16
+  - first:
+      213: 6656891195943730918
+    second: Set de sprites pixel art tropical_17
+  - first:
+      213: -2847494961500021132
+    second: Set de sprites pixel art tropical_18
+  - first:
+      213: 5572653629984887546
+    second: Set de sprites pixel art tropical_19
+  - first:
+      213: 6542074587514318198
+    second: Set de sprites pixel art tropical_20
+  - first:
+      213: 7902969333096670962
+    second: Set de sprites pixel art tropical_21
+  - first:
+      213: -1219385285249080830
+    second: Set de sprites pixel art tropical_22
+  - first:
+      213: 6767772806934881473
+    second: Set de sprites pixel art tropical_23
+  - first:
+      213: -43723901328967129
+    second: Set de sprites pixel art tropical_24
+  - first:
+      213: 5317391322029931126
+    second: Set de sprites pixel art tropical_25
+  - first:
+      213: 6006813173299029220
+    second: Set de sprites pixel art tropical_26
+  - first:
+      213: -3326778792509453276
+    second: Set de sprites pixel art tropical_27
+  - first:
+      213: -4295620823602184146
+    second: Set de sprites pixel art tropical_28
+  - first:
+      213: 83660956931746022
+    second: Set de sprites pixel art tropical_29
+  - first:
+      213: 114996727645575532
+    second: Set de sprites pixel art tropical_30
+  - first:
+      213: 7648075531334623537
+    second: Set de sprites pixel art tropical_31
+  - first:
+      213: -2992245187140518276
+    second: Set de sprites pixel art tropical_32
+  - first:
+      213: -1987407055484758442
+    second: Set de sprites pixel art tropical_33
+  - first:
+      213: 7860068777053923697
+    second: Set de sprites pixel art tropical_34
+  - first:
+      213: -1741929947953257614
+    second: Set de sprites pixel art tropical_35
+  - first:
+      213: -8733946126131684517
+    second: Set de sprites pixel art tropical_36
+  - first:
+      213: -6642776026022915014
+    second: Set de sprites pixel art tropical_37
+  - first:
+      213: -8096915604074740774
+    second: Set de sprites pixel art tropical_38
+  - first:
+      213: 648140038800720722
+    second: Set de sprites pixel art tropical_39
+  - first:
+      213: 7619047369089988149
+    second: Set de sprites pixel art tropical_40
+  - first:
+      213: 4401537016767640965
+    second: Set de sprites pixel art tropical_41
+  - first:
+      213: 6484390140253243988
+    second: Set de sprites pixel art tropical_42
+  - first:
+      213: -6136852079065941903
+    second: Set de sprites pixel art tropical_43
+  - first:
+      213: 9214877025559817671
+    second: Set de sprites pixel art tropical_44
+  - first:
+      213: -4673550328748149940
+    second: Set de sprites pixel art tropical_45
+  - first:
+      213: 9006376040035128413
+    second: Set de sprites pixel art tropical_46
+  - first:
+      213: -2288845735224312369
+    second: Set de sprites pixel art tropical_47
+  - first:
+      213: -106193740800980943
+    second: Set de sprites pixel art tropical_48
+  - first:
+      213: -2523754674314028217
+    second: Set de sprites pixel art tropical_49
+  - first:
+      213: 2433061588660335501
+    second: Set de sprites pixel art tropical_50
+  - first:
+      213: -8594517087455906310
+    second: Set de sprites pixel art tropical_51
+  - first:
+      213: -3854989831940155331
+    second: Set de sprites pixel art tropical_52
+  - first:
+      213: -4970097263853912886
+    second: Set de sprites pixel art tropical_53
+  - first:
+      213: -4522988403210950485
+    second: Set de sprites pixel art tropical_54
+  - first:
+      213: -2920533961230273746
+    second: Set de sprites pixel art tropical_55
+  - first:
+      213: -2913076814577930546
+    second: Set de sprites pixel art tropical_56
+  - first:
+      213: -3066099812090167419
+    second: Set de sprites pixel art tropical_57
+  - first:
+      213: -7323285436329282325
+    second: Set de sprites pixel art tropical_58
+  - first:
+      213: -1826325344712122291
+    second: Set de sprites pixel art tropical_59
+  - first:
+      213: -5901349143013726856
+    second: Set de sprites pixel art tropical_60
+  - first:
+      213: 3886920605589783460
+    second: Set de sprites pixel art tropical_61
+  - first:
+      213: -4565149291845001220
+    second: Set de sprites pixel art tropical_62
+  - first:
+      213: -7929807970622701378
+    second: Set de sprites pixel art tropical_63
+  - first:
+      213: 4342235613050331034
+    second: Set de sprites pixel art tropical_64
+  - first:
+      213: -8909331188555347688
+    second: Set de sprites pixel art tropical_65
+  - first:
+      213: -5723806413140147168
+    second: Set de sprites pixel art tropical_66
+  - first:
+      213: 1042651555447017881
+    second: Set de sprites pixel art tropical_67
+  - first:
+      213: 8495999783641470475
+    second: Set de sprites pixel art tropical_68
+  - first:
+      213: -2842723978690255559
+    second: Set de sprites pixel art tropical_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Set de sprites pixel art tropical_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 534
+        width: 609
+        height: 342
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb3b35e2e606e820800000000000000
+      internalID: 2947050577738808300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set de sprites pixel art tropical_1
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 830
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a3fc9ab733b6d0c0800000000000000
+      internalID: -4551253321475886171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set de sprites pixel art tropical_2
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 820
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db9548f915a95cd0800000000000000
+      internalID: -2568840581480080425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set de sprites pixel art tropical_3
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 113
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e67b654a2bf874820800000000000000
+      internalID: 2902446482287671150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set de sprites pixel art tropical_4
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 856
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6e2f2598407db70800000000000000
+      internalID: 8923606174506608353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set de sprites pixel art tropical_5
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 846
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c989f80d6f871090800000000000000
+      internalID: -8063818909318805054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set de sprites pixel art tropical_6
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 795
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed09345c40e81a00800000000000000
+      internalID: 727577958255496674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set de sprites pixel art tropical_7
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 823
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c0624fc74ea5620800000000000000
+      internalID: 2763772546668432404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set de sprites pixel art tropical_8
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 834
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a2ead0bdaf610210800000000000000
+      internalID: 1297440959446573734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set de sprites pixel art tropical_9
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 811
+        width: 79
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eb04138256841780800000000000000
+      internalID: -8713191690110497820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set de sprites pixel art tropical_10
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 493
+        width: 443
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 333b0e15b89dd0ae0800000000000000
+      internalID: -1581368701739814093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set de sprites pixel art tropical_11
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 838
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf5fef4349985c0a0800000000000000
+      internalID: -6861927187591793156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set de sprites pixel art tropical_12
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 823
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f0a9c82a6373dd0800000000000000
+      internalID: -2506474595836883082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set de sprites pixel art tropical_13
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 821
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59f66237772d2770800000000000000
+      internalID: 8587563457365604700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set de sprites pixel art tropical_14
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 721
+        width: 46
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b8ca0b988f3ddf0800000000000000
+      internalID: -156508291769529497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set de sprites pixel art tropical_15
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 832
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86ab6e75ff9a2080800000000000000
+      internalID: -9211374211096140149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set de sprites pixel art tropical_16
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 820
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c3b5b640ef1ba00800000000000000
+      internalID: 770676306191531132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set de sprites pixel art tropical_17
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 813
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eeb6a2e547026c50800000000000000
+      internalID: 6656891195943730918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set de sprites pixel art tropical_18
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 17
+        width: 125
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e93105b6aab78d0800000000000000
+      internalID: -2847494961500021132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set de sprites pixel art tropical_19
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 821
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af25a8783fa065d40800000000000000
+      internalID: 5572653629984887546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set de sprites pixel art tropical_20
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 825
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67da6ea0d2e1aca50800000000000000
+      internalID: 6542074587514318198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set de sprites pixel art tropical_21
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 813
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f6680a9cbcfcad60800000000000000
+      internalID: 7902969333096670962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set de sprites pixel art tropical_22
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 825
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 202e36c2b8fd31fe0800000000000000
+      internalID: -1219385285249080830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set de sprites pixel art tropical_23
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 824
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c4e6edb285fbed50800000000000000
+      internalID: 6767772806934881473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set de sprites pixel art tropical_24
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 823
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ab719e759a46ff0800000000000000
+      internalID: -43723901328967129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set de sprites pixel art tropical_25
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 775
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ab6511c3b2bc940800000000000000
+      internalID: 5317391322029931126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set de sprites pixel art tropical_26
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 110
+        width: 65
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e420a271cc7c5350800000000000000
+      internalID: 6006813173299029220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set de sprites pixel art tropical_27
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 218
+        width: 173
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ccb227058e4d1d0800000000000000
+      internalID: -3326778792509453276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set de sprites pixel art tropical_28
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 803
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20cb6fbe93e264c0800000000000000
+      internalID: -4295620823602184146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set de sprites pixel art tropical_29
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 797
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e86c737239392100800000000000000
+      internalID: 83660956931746022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set de sprites pixel art tropical_30
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 805
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6995ad1aec889100800000000000000
+      internalID: 114996727645575532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set de sprites pixel art tropical_31
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 779
+        width: 11
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131ae8cac2c632a60800000000000000
+      internalID: 7648075531334623537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set de sprites pixel art tropical_32
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 36
+        width: 158
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7efd9b1bd86976d0800000000000000
+      internalID: -2992245187140518276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set de sprites pixel art tropical_33
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 45
+        width: 109
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 656d9b110df4b64e0800000000000000
+      internalID: -1987407055484758442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set de sprites pixel art tropical_34
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 18
+        width: 61
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 179207688e2941d60800000000000000
+      internalID: 7860068777053923697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set de sprites pixel art tropical_35
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 779
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 273a1a401fb63d7e0800000000000000
+      internalID: -1741929947953257614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set de sprites pixel art tropical_36
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 787
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b9580d54acac680800000000000000
+      internalID: -8733946126131684517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set de sprites pixel art tropical_37
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 519
+        width: 262
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a345c66366e10d3a0800000000000000
+      internalID: -6642776026022915014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set de sprites pixel art tropical_38
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 220
+        width: 108
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3ceca482af1af80800000000000000
+      internalID: -8096915604074740774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set de sprites pixel art tropical_39
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 18
+        width: 72
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5251891, y: 0.5272412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253cc696ee7aef800800000000000000
+      internalID: 648140038800720722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set de sprites pixel art tropical_40
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 780
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536bb79f63b4cb960800000000000000
+      internalID: 7619047369089988149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set de sprites pixel art tropical_41
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 211
+        width: 123
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 585fa2ea896651d30800000000000000
+      internalID: 4401537016767640965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set de sprites pixel art tropical_42
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 818
+        width: 7
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a07de0a7e2df950800000000000000
+      internalID: 6484390140253243988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set de sprites pixel art tropical_43
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 727
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 178382c6c8585daa0800000000000000
+      internalID: -6136852079065941903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set de sprites pixel art tropical_44
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 717
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cda66d05d1d1ef70800000000000000
+      internalID: 9214877025559817671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set de sprites pixel art tropical_45
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 741
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c437e0fccb6342fb0800000000000000
+      internalID: -4673550328748149940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set de sprites pixel art tropical_46
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 214
+        width: 117
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5412e36a431dfc70800000000000000
+      internalID: 9006376040035128413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set de sprites pixel art tropical_47
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 21
+        width: 113
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd794e3ee26c30e0800000000000000
+      internalID: -2288845735224312369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set de sprites pixel art tropical_48
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 717
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 138003afa59b68ef0800000000000000
+      internalID: -106193740800980943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set de sprites pixel art tropical_49
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 159
+        width: 253
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74bd741ce72d9fcd0800000000000000
+      internalID: -2523754674314028217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set de sprites pixel art tropical_50
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 745
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d833fbcbf98f3c120800000000000000
+      internalID: 2433061588660335501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set de sprites pixel art tropical_51
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 747
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af57a22ae342ab880800000000000000
+      internalID: -8594517087455906310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set de sprites pixel art tropical_52
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 700
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38d6762c23508ac0800000000000000
+      internalID: -3854989831940155331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set de sprites pixel art tropical_53
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 525
+        width: 156
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: accb8d80fdaa60bb0800000000000000
+      internalID: -4970097263853912886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set de sprites pixel art tropical_54
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 809
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba86667d20e1b31c0800000000000000
+      internalID: -4522988403210950485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set de sprites pixel art tropical_55
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 509
+        width: 140
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 2, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e23b76ef5dd2877d0800000000000000
+      internalID: -2920533961230273746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set de sprites pixel art tropical_56
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 235
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecee7af321ca297d0800000000000000
+      internalID: -2913076814577930546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set de sprites pixel art tropical_57
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 362
+        width: 387
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f397e37760375d0800000000000000
+      internalID: -3066099812090167419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set de sprites pixel art tropical_58
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 357
+        width: 339
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be43dc232b67e5a90800000000000000
+      internalID: -7323285436329282325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set de sprites pixel art tropical_59
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 206
+        width: 166
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40242876c697a6e0800000000000000
+      internalID: -1826325344712122291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set de sprites pixel art tropical_60
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 364
+        width: 216
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8756c1b98323a1ea0800000000000000
+      internalID: -5901349143013726856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set de sprites pixel art tropical_61
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 361
+        width: 278
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a3435e62bd11f530800000000000000
+      internalID: 3886920605589783460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set de sprites pixel art tropical_62
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 314
+        width: 442
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cffd3f008e455a0c0800000000000000
+      internalID: -4565149291845001220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set de sprites pixel art tropical_63
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 30
+        width: 175
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb009f52aa9a3f190800000000000000
+      internalID: -7929807970622701378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set de sprites pixel art tropical_64
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 220
+        width: 120
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f5aeea848b24c30800000000000000
+      internalID: 4342235613050331034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set de sprites pixel art tropical_65
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 8
+        width: 192
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81989d7dc72bb5480800000000000000
+      internalID: -8909331188555347688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set de sprites pixel art tropical_66
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 152
+        width: 189
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024cdada464f090b0800000000000000
+      internalID: -5723806413140147168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set de sprites pixel art tropical_67
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 11
+        width: 147
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9919de2c01e387e00800000000000000
+      internalID: 1042651555447017881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set de sprites pixel art tropical_68
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 230
+        width: 144
+        height: 89
+      alignment: 9
+      pivot: {x: 0.4640781, y: 0.46055812}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06debb1acad7e570800000000000000
+      internalID: 8495999783641470475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set de sprites pixel art tropical_69
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 11
+        width: 377
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935aeaf4a9d9c88d0800000000000000
+      internalID: -2842723978690255559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set de sprites pixel art tropical_70
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 736
+        width: 32
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c87cdcd5c05c444a84cc223faaf09d4
+      internalID: 1445247012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set de sprites pixel art tropical_71
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 680
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8f0bc223832d148a5ee57332afbbfa
+      internalID: -859089171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0df13b4d4bfc25741bac2314f341e779
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Set de sprites pixel art tropical_0: 2947050577738808300
+      Set de sprites pixel art tropical_1: -4551253321475886171
+      Set de sprites pixel art tropical_10: -1581368701739814093
+      Set de sprites pixel art tropical_11: -6861927187591793156
+      Set de sprites pixel art tropical_12: -2506474595836883082
+      Set de sprites pixel art tropical_13: 8587563457365604700
+      Set de sprites pixel art tropical_14: -156508291769529497
+      Set de sprites pixel art tropical_15: -9211374211096140149
+      Set de sprites pixel art tropical_16: 770676306191531132
+      Set de sprites pixel art tropical_17: 6656891195943730918
+      Set de sprites pixel art tropical_18: -2847494961500021132
+      Set de sprites pixel art tropical_19: 5572653629984887546
+      Set de sprites pixel art tropical_2: -2568840581480080425
+      Set de sprites pixel art tropical_20: 6542074587514318198
+      Set de sprites pixel art tropical_21: 7902969333096670962
+      Set de sprites pixel art tropical_22: -1219385285249080830
+      Set de sprites pixel art tropical_23: 6767772806934881473
+      Set de sprites pixel art tropical_24: -43723901328967129
+      Set de sprites pixel art tropical_25: 5317391322029931126
+      Set de sprites pixel art tropical_26: 6006813173299029220
+      Set de sprites pixel art tropical_27: -3326778792509453276
+      Set de sprites pixel art tropical_28: -4295620823602184146
+      Set de sprites pixel art tropical_29: 83660956931746022
+      Set de sprites pixel art tropical_3: 2902446482287671150
+      Set de sprites pixel art tropical_30: 114996727645575532
+      Set de sprites pixel art tropical_31: 7648075531334623537
+      Set de sprites pixel art tropical_32: -2992245187140518276
+      Set de sprites pixel art tropical_33: -1987407055484758442
+      Set de sprites pixel art tropical_34: 7860068777053923697
+      Set de sprites pixel art tropical_35: -1741929947953257614
+      Set de sprites pixel art tropical_36: -8733946126131684517
+      Set de sprites pixel art tropical_37: -6642776026022915014
+      Set de sprites pixel art tropical_38: -8096915604074740774
+      Set de sprites pixel art tropical_39: 648140038800720722
+      Set de sprites pixel art tropical_4: 8923606174506608353
+      Set de sprites pixel art tropical_40: 7619047369089988149
+      Set de sprites pixel art tropical_41: 4401537016767640965
+      Set de sprites pixel art tropical_42: 6484390140253243988
+      Set de sprites pixel art tropical_43: -6136852079065941903
+      Set de sprites pixel art tropical_44: 9214877025559817671
+      Set de sprites pixel art tropical_45: -4673550328748149940
+      Set de sprites pixel art tropical_46: 9006376040035128413
+      Set de sprites pixel art tropical_47: -2288845735224312369
+      Set de sprites pixel art tropical_48: -106193740800980943
+      Set de sprites pixel art tropical_49: -2523754674314028217
+      Set de sprites pixel art tropical_5: -8063818909318805054
+      Set de sprites pixel art tropical_50: 2433061588660335501
+      Set de sprites pixel art tropical_51: -8594517087455906310
+      Set de sprites pixel art tropical_52: -3854989831940155331
+      Set de sprites pixel art tropical_53: -4970097263853912886
+      Set de sprites pixel art tropical_54: -4522988403210950485
+      Set de sprites pixel art tropical_55: -2920533961230273746
+      Set de sprites pixel art tropical_56: -2913076814577930546
+      Set de sprites pixel art tropical_57: -3066099812090167419
+      Set de sprites pixel art tropical_58: -7323285436329282325
+      Set de sprites pixel art tropical_59: -1826325344712122291
+      Set de sprites pixel art tropical_6: 727577958255496674
+      Set de sprites pixel art tropical_60: -5901349143013726856
+      Set de sprites pixel art tropical_61: 3886920605589783460
+      Set de sprites pixel art tropical_62: -4565149291845001220
+      Set de sprites pixel art tropical_63: -7929807970622701378
+      Set de sprites pixel art tropical_64: 4342235613050331034
+      Set de sprites pixel art tropical_65: -8909331188555347688
+      Set de sprites pixel art tropical_66: -5723806413140147168
+      Set de sprites pixel art tropical_67: 1042651555447017881
+      Set de sprites pixel art tropical_68: 8495999783641470475
+      Set de sprites pixel art tropical_69: -2842723978690255559
+      Set de sprites pixel art tropical_7: 2763772546668432404
+      Set de sprites pixel art tropical_70: 1445247012
+      Set de sprites pixel art tropical_71: -859089171
+      Set de sprites pixel art tropical_8: 1297440959446573734
+      Set de sprites pixel art tropical_9: -8713191690110497820
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

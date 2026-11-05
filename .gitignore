@@ -109,3 +109,19 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# Unity project now lives in the wilson/ subfolder.
+/wilson/[Ll]ibrary/
+/wilson/[Tt]emp/
+/wilson/[Oo]bj/
+/wilson/[Bb]uild/
+/wilson/[Bb]uilds/
+/wilson/[Ll]ogs/
+/wilson/[Uu]ser[Ss]ettings/
+/wilson/[Mm]emoryCaptures/
+/wilson/[Rr]ecordings/
+/wilson/.utmp/
+
+# Local reference asset: Crusenho license prohibits redistribution.
+/wilson/Assets/Art/Tiles/tilemap_export.png
+/wilson/Assets/Art/Tiles/tilemap_export.png.meta
