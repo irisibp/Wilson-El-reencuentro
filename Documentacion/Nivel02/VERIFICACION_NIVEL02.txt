@@ -1,0 +1,6 @@
+Unity 6000.6.3f1
+Escena: Assets/Scenes/Nivel02_CavernaDeCoral.unity
+14 cocos: 12 comunes (1), 1 brillante (3), 1 dorado (5): total 20.
+Wilson: velocidad 6, salto 12, gravedad 3; Ground y detector enlazados.
+46 / 46 puntos de apoyo alcanzables en el grafo de salto; arcos muestreados contra colliders reales.
+Referencias de contador, salida, sprites, camara y lista de escenas configuradas.

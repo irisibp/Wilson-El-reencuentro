@@ -27,6 +27,11 @@ public class CoconutManager : MonoBehaviour
         Instance = this;
     }
 
+    void OnDestroy()
+    {
+        if (Instance == this) Instance = null;
+    }
+
     void Start()
     {
         ActualizarContador();

@@ -497,6 +497,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::LevelExit
   nombreNivel: Perdido en el mar
+  siguienteEscena: Nivel02_CavernaDeCoral
   alCompletarNivel:
     m_PersistentCalls:
       m_Calls: []
@@ -3415,6 +3416,14 @@ PrefabInstance:
     - target: {fileID: 2141815267054981847, guid: a32f14efee060214eb30ffbcddbbf022, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5450821856487214201, guid: a32f14efee060214eb30ffbcddbbf022, type: 3}
+      propertyPath: m_Radius
+      value: 0.36198336
+      objectReference: {fileID: 0}
+    - target: {fileID: 5450821856487214201, guid: a32f14efee060214eb30ffbcddbbf022, type: 3}
+      propertyPath: m_Offset.y
+      value: -0.0070177913
       objectReference: {fileID: 0}
     - target: {fileID: 6748114694782487768, guid: a32f14efee060214eb30ffbcddbbf022, type: 3}
       propertyPath: m_SortingOrder

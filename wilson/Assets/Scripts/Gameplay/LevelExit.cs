@@ -1,5 +1,6 @@
 using UnityEngine;
 using UnityEngine.Events;
+using UnityEngine.SceneManagement;
 
 [DisallowMultipleComponent]
 [RequireComponent(typeof(BoxCollider2D))]
@@ -7,12 +8,28 @@ public class LevelExit : MonoBehaviour
 {
     [Header("Resultado")]
     [SerializeField] private string nombreNivel = "Perdido en el mar";
+    [Tooltip("Nombre de la siguiente escena. Dejar vacio en el ultimo nivel.")]
+    [SerializeField] private string siguienteEscena = "Nivel02_CavernaDeCoral";
     public UnityEvent alCompletarNivel = new UnityEvent();
 
     public bool NivelCompletado { get; private set; }
+    public string SiguienteEscena => siguienteEscena;
 
     private string mensajeVictoria;
     private GUIStyle estiloVictoria;
+    private bool cargandoEscena;
+
+    public void ContinuarAlSiguienteNivel()
+    {
+        if (!NivelCompletado || cargandoEscena || string.IsNullOrWhiteSpace(siguienteEscena)) return;
+        if (!Application.CanStreamedLevelBeLoaded(siguienteEscena))
+        {
+            Debug.LogError("No se puede abrir " + siguienteEscena + ". Agregar la escena a la lista de escenas de la build.", this);
+            return;
+        }
+        cargandoEscena = true;
+        SceneManager.LoadSceneAsync(siguienteEscena, LoadSceneMode.Single);
+    }
 
     private void Reset()
     {
@@ -62,7 +79,7 @@ public class LevelExit : MonoBehaviour
 
         if (estiloVictoria == null)
         {
-            estiloVictoria = new GUIStyle(GUI.skin.box)
+            estiloVictoria = new GUIStyle(GUI.skin.label)
             {
                 alignment = TextAnchor.MiddleCenter,
                 fontSize = 24,
@@ -72,10 +89,21 @@ public class LevelExit : MonoBehaviour
         }
 
         float ancho = Mathf.Min(460f, Screen.width - 32f);
-        Rect rect = new Rect((Screen.width - ancho) / 2f, (Screen.height - 160f) / 2f, ancho, 160f);
+        bool haySiguiente = !string.IsNullOrWhiteSpace(siguienteEscena);
+        float alto = haySiguiente ? 212f : 160f;
+        Rect rect = new Rect((Screen.width - ancho) / 2f, (Screen.height - alto) / 2f, ancho, alto);
         int profundidadAnterior = GUI.depth;
         GUI.depth = -100;
-        GUI.Box(rect, mensajeVictoria, estiloVictoria);
+        GUI.Box(rect, GUIContent.none);
+        GUI.Label(new Rect(rect.x + 12f, rect.y + 8f, ancho - 24f, 144f), mensajeVictoria, estiloVictoria);
+        if (haySiguiente)
+        {
+            bool habilitadoAnterior = GUI.enabled;
+            GUI.enabled = !cargandoEscena;
+            if (GUI.Button(new Rect(rect.x + 30f, rect.y + 160f, ancho - 60f, 36f), cargandoEscena ? "Cargando..." : "Continuar"))
+                ContinuarAlSiguienteNivel();
+            GUI.enabled = habilitadoAnterior;
+        }
         GUI.depth = profundidadAnterior;
     }
 }

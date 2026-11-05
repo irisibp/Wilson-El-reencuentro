@@ -1,0 +1,2 @@
+Unity 6000.6.3f1
+PASS en Play Mode: completar nivel 1 con 15 puntos; cargar nivel 2 mediante ContinuarAlSiguienteNivel; nuevo contador 0/20; movimiento activo; recolectar 14 cocos con valor total 20; desbloquear salida; completar nivel 2 sin intentar cargar un nivel 3.
