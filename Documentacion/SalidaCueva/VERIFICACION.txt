@@ -1,0 +1,2 @@
+Unity 6000.6.3f1
+PASS: Single Point transparent sprite importer; bottom pivot; 2.4 world-unit width; original marker hidden; original trigger, LevelExit and root transform unchanged; child without collider; reapplication without duplicate children or position drift.
