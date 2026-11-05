@@ -8,12 +8,24 @@ public class LevelExit : MonoBehaviour
 {
     [Header("Resultado")]
     [SerializeField] private string nombreNivel = "Perdido en el mar";
-    [Tooltip("Nombre de la siguiente escena. Dejar vacio en el ultimo nivel.")]
+    [Tooltip("Nombre de la siguiente escena. Si queda vacio, se usa la siguiente entrada de la build cuando su nombre empieza por Nivel.")]
     [SerializeField] private string siguienteEscena = "Nivel02_CavernaDeCoral";
     public UnityEvent alCompletarNivel = new UnityEvent();
 
     public bool NivelCompletado { get; private set; }
-    public string SiguienteEscena => siguienteEscena;
+    public string SiguienteEscena
+    {
+        get
+        {
+            if (!string.IsNullOrWhiteSpace(siguienteEscena)) return siguienteEscena;
+            int current = gameObject.scene.buildIndex;
+            int next = current + 1;
+            if (current < 0 || next >= SceneManager.sceneCountInBuildSettings) return "";
+            string path = SceneUtility.GetScenePathByBuildIndex(next);
+            string name = System.IO.Path.GetFileNameWithoutExtension(path);
+            return name.StartsWith("Nivel", System.StringComparison.Ordinal) ? name : "";
+        }
+    }
 
     private string mensajeVictoria;
     private GUIStyle estiloVictoria;
@@ -21,15 +33,16 @@ public class LevelExit : MonoBehaviour
 
     public void ContinuarAlSiguienteNivel()
     {
-        if (!NivelCompletado || cargandoEscena || string.IsNullOrWhiteSpace(siguienteEscena)) return;
-        if (!Application.CanStreamedLevelBeLoaded(siguienteEscena))
+        string destino = SiguienteEscena;
+        if (!NivelCompletado || cargandoEscena || string.IsNullOrWhiteSpace(destino)) return;
+        if (!Application.CanStreamedLevelBeLoaded(destino))
         {
-            Debug.LogError("No se puede abrir " + siguienteEscena + ". Agregar la escena a la lista de escenas de la build.", this);
+            Debug.LogError("No se puede abrir " + destino + ". Agregar la escena a la lista de escenas de la build.", this);
             return;
         }
         cargandoEscena = true;
         GameAudio.Sonar(GameSound.Continuar);
-        SceneManager.LoadSceneAsync(siguienteEscena, LoadSceneMode.Single);
+        SceneManager.LoadSceneAsync(destino, LoadSceneMode.Single);
     }
 
     private void Reset()
@@ -91,7 +104,7 @@ public class LevelExit : MonoBehaviour
         }
 
         float ancho = Mathf.Min(460f, Screen.width - 32f);
-        bool haySiguiente = !string.IsNullOrWhiteSpace(siguienteEscena);
+        bool haySiguiente = !string.IsNullOrWhiteSpace(SiguienteEscena);
         float alto = haySiguiente ? 212f : 160f;
         Rect rect = new Rect((Screen.width - ancho) / 2f, (Screen.height - alto) / 2f, ancho, alto);
         int profundidadAnterior = GUI.depth;

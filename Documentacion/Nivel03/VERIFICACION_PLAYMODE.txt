@@ -1,0 +1,2 @@
+Unity 6000.6.3f1
+PASS: completar nivel 2 y continuar al 3; contador nuevo 0/25; 19 cocos; 4 peligros; checkpoint independiente; jugador activo; musica asignada; 3 vidas; conservar cocos en primeros fallos; Game Over con OMEN; reintentar restaura 3 vidas, 19 cocos y checkpoint; victoria con 25 puntos; no se carga SampleScene como nivel 4; un listener.

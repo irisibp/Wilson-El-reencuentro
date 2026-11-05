@@ -1,3 +1,5 @@
+> Actualización: la salida de la caverna ahora conecta con Nivel03_RuinasSumergidas mediante el orden de escenas de la build. La escena final actual es el nivel 3. Ver ../Nivel03/LEEME.md.
+
 # Nivel 2 — Caverna de coral
 
 Primera versión jugable del segundo nivel. Se entra desde la cueva de Perdido en el mar mediante el botón Continuar del cartel de victoria.

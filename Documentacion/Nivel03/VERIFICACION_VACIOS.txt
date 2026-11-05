@@ -1,0 +1,2 @@
+PASS geometria: 39/39 apoyos seguros accesibles; 3280 muestras de trayectorias, 19 cocos accesibles. Modelo balistico con pulsos de movimiento horizontal, radio de colision menos 0.04 de tolerancia.
+PASS Play Mode: caidas fisicas, reaparicion inicial y checkpoint, caida durante proteccion, una vida por caida, tres caidas Game Over y OMEN, reintento con huecos persistentes y 3 vidas, 25 puntos y salida.

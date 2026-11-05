@@ -1,0 +1,4 @@
+Unity 6000.6.3f1
+Nivel 3, 48 columnas: 19 cocos suman 25 puntos; 4 peligros; 1 checkpoint; controlador y detector conservados.
+45/45 posiciones seguras alcanzables; 2101 muestras de trayectorias contra terreno y peligros.
+Todos los cocos tienen un punto de apoyo seguro accesible.

@@ -63,10 +63,15 @@ public class PlayerRespawn : MonoBehaviour
         return true;
     }
 
-    public bool IntentarReaparecer()
+    public bool IntentarReaparecer() => ProcesarFallo(false);
+
+    // Falling must also work during the brief protection against corals.
+    public bool IntentarReaparecerPorCaida() => ProcesarFallo(true);
+
+    private bool ProcesarFallo(bool porCaida)
     {
         // A completed level disables movement/simulation; never revive a winner.
-        if (!isActiveAndEnabled || FinDePartida || Reapareciendo || Time.time < proteccionHasta ||
+        if (!isActiveAndEnabled || FinDePartida || Reapareciendo || (!porCaida && Time.time < proteccionHasta) ||
             !controlador.isActiveAndEnabled || !cuerpo.simulated) return false;
         Reapareciendo = true;
         Fallos++;
