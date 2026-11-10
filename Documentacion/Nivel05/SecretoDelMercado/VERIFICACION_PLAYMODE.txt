@@ -1,0 +1,1 @@
+PASS: coco oculto sin render ni collider; no se descubre desde el suelo; contacto fisico del jugador revela caja; descubrir no regala puntos; recoger da exactamente 5; una caida conserva hallazgo y puntos; Game Over y reintento restauran el secreto; segunda recoleccion valida; total 35 desbloquea a Chuck y el final sigue funcionando.

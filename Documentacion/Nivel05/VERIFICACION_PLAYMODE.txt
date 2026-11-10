@@ -1,0 +1,2 @@
+Unity 6000.6.3f1
+PASS: playa -> ciudad; contador nuevo 0/35; 29 cocos; Chuck visible; final bloqueado antes de tiempo; 7 edificios y 8 vecinos; musica y singleton; checkpoint; tres caidas fisicas; vidas y puntos conservados; OMEN; reintento limpio; 35 puntos desbloquean reencuentro; evento persistente; jugador detenido y no resucitable; final sin continuacion incluso con destino explicito; acercamiento a Chuck; pantalla final activa y HUD oculto; volver al nivel 1 jugable; un listener.

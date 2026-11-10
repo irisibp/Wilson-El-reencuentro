@@ -10,6 +10,8 @@ public class LevelExit : MonoBehaviour
     [SerializeField] private string nombreNivel = "Perdido en el mar";
     [Tooltip("Nombre de la siguiente escena. Si queda vacio, se usa la siguiente entrada de la build cuando su nombre empieza por Nivel.")]
     [SerializeField] private string siguienteEscena = "Nivel02_CavernaDeCoral";
+    [SerializeField] private bool finalDelJuego;
+    public bool EsFinalDelJuego => finalDelJuego;
     public UnityEvent alCompletarNivel = new UnityEvent();
 
     public bool NivelCompletado { get; private set; }
@@ -17,6 +19,7 @@ public class LevelExit : MonoBehaviour
     {
         get
         {
+            if (finalDelJuego) return "";
             if (!string.IsNullOrWhiteSpace(siguienteEscena)) return siguienteEscena;
             int current = gameObject.scene.buildIndex;
             int next = current + 1;
@@ -90,7 +93,7 @@ public class LevelExit : MonoBehaviour
 
     private void OnGUI()
     {
-        if (!NivelCompletado) return;
+        if (!NivelCompletado || finalDelJuego) return;
 
         if (estiloVictoria == null)
         {

@@ -1,0 +1,1 @@
+PASS: dos balcones adicionales, 29 cocos y 35 puntos, dorado oculto con collider desactivado; menu sin duplicados; 57/57 apoyos alcanzables; 11399 muestras de trayectorias; todos los cocos apoyados y accesibles. Modelo con tolerancia de radio 0.04.

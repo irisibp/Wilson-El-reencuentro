@@ -37,6 +37,7 @@ public static class GameAudioSetup
         config.musicaNivel02=AssetDatabase.LoadAssetAtPath<AudioClip>(Root+"/"+Files[1]);
         if(config.musicaNivel03==null)config.musicaNivel03=config.musicaNivel02;
         if(config.musicaNivel04==null)config.musicaNivel04=config.musicaNivel01;
+        if(config.musicaNivel05==null)config.musicaNivel05=config.musicaNivel01;
         config.musicaGameOver=AssetDatabase.LoadAssetAtPath<AudioClip>(Root+"/"+Files[2]);
         config.musica=config.musicaNivel01;
         config.coco=AssetDatabase.LoadAssetAtPath<AudioClip>(Root+"/"+Files[3]);

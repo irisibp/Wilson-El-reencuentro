@@ -6,7 +6,7 @@ Escena: `Assets/Scenes/Nivel04_LaPlaya.unity`. Abrirla y presionar Play, o compl
 
 Costa de 52 columnas, arena clara, palmeras, vegetación, conchas y horizonte tropical. Cinco huecos: columnas 8–9, 17–18, 26–27, 35–37 y 44–45. El de tres celdas queda después del checkpoint. Un muelle elevado en X=21–23 lleva al coco brillante. Las palmeras son decorativas y no bloquean el salto. No hay techo ni corales peligrosos submarinos.
 
-Se necesitan 30 puntos: 22 cocos comunes de 1 punto, un brillante de 3 y un dorado de 5; 24 objetos en total. El cartel de salida en X=50,5 aparece al reunirlos. El último nivel no conduce a SampleScene.
+Se necesitan 30 puntos: 22 cocos comunes de 1 punto, un brillante de 3 y un dorado de 5; 24 objetos en total. El cartel de salida en X=50,5 aparece al reunirlos. La salida de la playa ahora conduce a Nivel05_CiudadCostera. El cierre del juego ocurre junto a Chuck en el nivel 5; no se carga SampleScene.
 
 El punto seguro está en X=24,5. Tres vidas; cada caída resta una y devuelve al inicio o al checkpoint. Los puntos se conservan en las reapariciones. La tercera caída activa Game Over con OMEN; Reintentar restaura todos los cocos y las tres vidas.
 
@@ -31,3 +31,7 @@ Las imágenes muestran el escenario desde Unity con URP 17.6.0 y los ajustes gr�
 Probar manualmente los cinco saltos, la ruta del muelle, el punto seguro y el cartel final antes de subir al repositorio.
 
 Commit en primera persona: `feat: creé el nivel de la playa y lo conecté con las ruinas`
+
+## Continuación
+
+Nivel05_CiudadCostera añade el paseo urbano y el reencuentro final con Chuck. Sus pruebas en Documentacion/Nivel05 verifican la nueva transición. Las verificaciones originales de esta carpeta registran el estado al crear el nivel 4.

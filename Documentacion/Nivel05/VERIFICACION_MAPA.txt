@@ -1,0 +1,3 @@
+Unity 6000.6.3f1
+60 columnas, cinco huecos, 29 cocos que suman 35 puntos.
+52/52 apoyos seguros accesibles; 6476 muestras de trayectorias. Todos los cocos tienen un apoyo accesible. Modelo balistico con tolerancia de radio de 0.04.
