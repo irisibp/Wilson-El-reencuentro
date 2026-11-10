@@ -236,27 +236,8 @@ La diversión se basa en dominar saltos cada vez más exigentes, descubrir rutas
 - Música retro, efectos de interacción y cierre narrativo.
 - Inicio, pausa, reintento y salida del juego.
 
-## 11. Abrir, ejecutar y exportar el proyecto
 
-### Para desarrollar
-
-1. Clonar o descargar este repositorio.
-2. Instalar Unity 6000.6.3f1 mediante Unity Hub.
-3. Agregar la carpeta wilson/ del repositorio; contiene Assets, Packages y ProjectSettings.
-4. Esperar la importación de assets y paquetes.
-5. Abrir wilson/Assets/Scenes/MenuPrincipal.unity y pulsar Play.
-
-Para editar un nivel concreto se puede abrir su escena directamente. Conservar los archivos .meta junto a cada asset. Library, Temp, Logs y UserSettings son datos locales regenerables y no se versionan.
-
-Parte del audio local está excluida de Git porque sus condiciones de redistribución siguen pendientes de confirmar. Una copia recién clonada puede carecer de esas pistas y efectos. Consultar Documentacion/Audio/CREDITOS_AUDIO.md; restaurar únicamente archivos autorizados con sus .meta existentes o asignar alternativas con licencia en GameAudioSettings.
-
-### Para exportar y compartir
-
-En Unity, usar Tools > Wilson > Menus > Exportar Windows con inicio y pausa. También se puede configurar Windows de 64 bits en Build Profiles, incluyendo primero MenuPrincipal y después los cinco niveles en orden. SampleScene permanece deshabilitada.
-
-La entrega debe contener toda la carpeta generada: ejecutable, carpeta de datos y bibliotecas. Comprimirla completa en ZIP y enviarla. Quien la recibe debe extraer todos los archivos y abrir Wilson-El-Reencuentro.exe. El ejecutable aislado no constituye una entrega completa.
-
-## 12. Organización y verificación
+## 11. Organización y verificación
 
 - wilson/Assets/Scenes/: inicio y escenas jugables.
 - wilson/Assets/Scripts/Player/: movimiento del protagonista.
@@ -273,11 +254,15 @@ Las carpetas de documentación registran pruebas de importación, rutas y saltos
 
 Para el comportamiento actual de la costa y los menús, consultar Documentacion/DificultadCostera/LEEME.md y Documentacion/Menus/LEEME.md: amplían las notas originales de creación de los niveles.
 
-## 13. Autoría, recursos, créditos y enlaces
+## 12. Autoría, recursos, créditos y enlaces
 
 ### Responsable del proyecto
 
-Iris Pereyra — dirección del proyecto, decisiones de diseño y desarrollo del juego. La producción contó con asistencia de IA para programación, documentación y parte de los recursos visuales. Los detalles de esos recursos y sus prompts se conservan en la documentación correspondiente.
+Grupo: Binary Code
+Participantes: Iris Pereyra 
+               Gemma Paez 
+— dirección del proyecto, decisiones de diseño y desarrollo del juego. 
+La producción contó con asistencia de IA para programación, documentación y parte de los recursos visuales. Los detalles de esos recursos y sus prompts se conservan en la documentación correspondiente.
 
 ### Arte
 
