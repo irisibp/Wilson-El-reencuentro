@@ -42,11 +42,10 @@ public class ReunionEnding : MonoBehaviour
 
     public void VolverAlInicio()
     {
-        const string first = "Nivel01_PerdidoEnElMar";
+        const string first = GameMenus.MenuPrincipal;
         if (!FinalVisible || cargando || !Application.CanStreamedLevelBeLoaded(first)) return;
         cargando = true;
-        GameAudio.Sonar(GameSound.Continuar);
-        SceneManager.LoadSceneAsync(first, LoadSceneMode.Single);
+        GameMenus.Instance.IrAlInicio();
     }
 
     private void OnGUI()
@@ -72,7 +71,9 @@ public class ReunionEnding : MonoBehaviour
         GUI.Label(new Rect(panel.x + 14, panel.y + 82, width - 28, 90), "Fin de Wilson: El reencuentro\nGracias por jugar.", texto);
         bool enabled = GUI.enabled;
         GUI.enabled = !cargando;
-        if (GUI.Button(new Rect(panel.x + 40, panel.y + 194, width - 80, 42), cargando ? "Cargando..." : "Volver al inicio", boton)) VolverAlInicio();
+        float anchoBoton = (width - 96) / 2;
+        if (GUI.Button(new Rect(panel.x + 40, panel.y + 194, anchoBoton, 42), cargando ? "Cargando..." : "Volver al inicio", boton)) VolverAlInicio();
+        if (GUI.Button(new Rect(panel.x + 56 + anchoBoton, panel.y + 194, anchoBoton, 42), "Salir del juego", boton)) GameMenus.SalirDelJuego();
         GUI.enabled = enabled;
         GUI.color = color;
         GUI.depth = depth;

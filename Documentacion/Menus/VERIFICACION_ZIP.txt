@@ -1,0 +1,2 @@
+PASS: ZIP completo e integridad CRC sin errores. 196 archivos; 52490585 bytes.
+SHA256: 05d6af74504b3956a22f7de29a6e9168aa3e41e2f2836708e8cc48f3588d2380

@@ -29,6 +29,7 @@ public class WilsonController : MonoBehaviour
 
     void Update()
     {
+        if (GameMenus.BloquearEntrada) { movimiento = 0f; solicitarSalto = false; return; }
         movimiento = Input.GetAxisRaw("Horizontal");
 
         enSuelo = detectorSuelo != null &&

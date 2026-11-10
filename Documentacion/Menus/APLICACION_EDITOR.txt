@@ -1,0 +1,5 @@
+PASS: MenuPrincipal primero en la lista global; Windows usa la lista global sin cambiar sus otras opciones.
+PASS: scripts de inicio y pausa instalados y compilados en el proyecto real; entrega de Windows creada sin errores; MenuPrincipal abierto en Unity.
+PASS: ejecutable iniciado y observado en Windows con el boton de pausa visible durante una partida. Se conservo la partida activa del usuario.
+La comprobacion de Salir en el Player se hizo inspeccionando su metodo compilado: llama a Application.Quit, sin llamadas a UnityEditor. La salida desde pausa se probo en Play Mode y detuvo Play sin cerrar el editor.
+El puente temporal de aplicacion se retiro de Assets/Editor.

@@ -1,0 +1,11 @@
+Unity 6000.6.3f1
+PASS: Inicio con musica; controles y volver; un EventSystem.
+PASS: Pausa congela fisica, reloj y musica; limpia salto pendiente; Continuar restaura todo.
+PASS: Reiniciar nivel y volver al inicio desde pausa sin bloqueo ni duplicados.
+PASS: Pausa y continuacion en nivel 2, plataformas congeladas donde corresponde.
+PASS: Pausa y continuacion en nivel 3, plataformas congeladas donde corresponde.
+PASS: Pausa y continuacion en nivel 4, plataformas congeladas donde corresponde.
+PASS: Pausa y continuacion en nivel 5, plataformas congeladas donde corresponde.
+PASS: Game Over bloquea la pausa y permite volver al inicio.
+PASS: El reencuentro con Chuck vuelve al nuevo inicio; sin pausa sobre la cinematica.
+PASS: Salir del juego desde pausa detiene Play sin cerrar el editor; tiempo y audio restaurados.

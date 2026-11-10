@@ -22,7 +22,7 @@ public class GameAudio : MonoBehaviour
 
     private static void EnsureAudio(Scene scene, LoadSceneMode mode)
     {
-        if (scene.name.StartsWith("Nivel") && Instance == null)
+        if ((scene.name.StartsWith("Nivel") || scene.name == GameMenus.MenuPrincipal) && Instance == null)
             new GameObject("AudioDelJuego").AddComponent<GameAudio>();
     }
 

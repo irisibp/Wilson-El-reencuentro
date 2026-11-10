@@ -1,0 +1,1 @@
+PASS: SalirDelJuego del ejecutable invoca UnityEngine.Application.Quit y no contiene llamadas a UnityEditor.

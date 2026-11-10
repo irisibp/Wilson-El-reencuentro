@@ -1,0 +1,2 @@
+PASS: Windows Intel 64-bit, player, sin Development Build; inicio y cinco niveles; 114150026 bytes; 0 errores.
+Salida: C:\Users\Iris\OneDrive\Documents\ChatGPT/wilson/Entregas/WilsonDemo_InicioYPausa
