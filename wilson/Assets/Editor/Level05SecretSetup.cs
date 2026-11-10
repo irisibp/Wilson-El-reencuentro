@@ -11,6 +11,8 @@ public static class Level05SecretSetup
     const string ScenePath="Assets/Scenes/Nivel05_CiudadCostera.unity";
     const string Art="Assets/Art/Tiles/Nivel01/Set de sprites pixel art tropical.png";
 
+    static T[] InScene<T>() where T:Component => SceneManager.GetActiveScene().GetRootGameObjects().SelectMany(g=>g.GetComponentsInChildren<T>(true)).ToArray();
+
     [MenuItem("Tools/Wilson/Nivel 5/Agregar coco oculto y balcones")]
     public static void Prepare()
     {
@@ -18,9 +20,9 @@ public static class Level05SecretSetup
         {
             EditorUtility.DisplayDialog("Nivel 5","Abri Nivel05_CiudadCostera y sali de Play antes de aplicar el cambio.","Aceptar");return;
         }
-        if(Object.FindAnyObjectByType<HiddenCoconut>()!=null){Debug.Log("El secreto ya esta preparado; no se duplicaron objetos.");return;}
-        var coin=Object.FindObjectsByType<CoconutCollectible>().SingleOrDefault(c=>c.valor==5);
-        var grid=Object.FindObjectsByType<Grid>().SingleOrDefault(g=>g.name=="Grid_CiudadCostera");
+        if(InScene<HiddenCoconut>().Length!=0){Debug.Log("El secreto ya esta preparado; no se duplicaron objetos.");return;}
+        var coin=InScene<CoconutCollectible>().SingleOrDefault(c=>c.valor==5);
+        var grid=InScene<Grid>().SingleOrDefault(g=>g.name=="Grid_CiudadCostera");
         var wood=AssetDatabase.LoadAssetAtPath<Tile>("Assets/Art/Nivel05/Muelle.asset");
         var sprites=AssetDatabase.LoadAllAssetsAtPath(Art).OfType<Sprite>().ToArray();
         var plank=sprites.Single(s=>s.name.EndsWith("_57"));var crate=sprites.Single(s=>s.name.EndsWith("_41"));
@@ -46,7 +48,7 @@ public static class Level05SecretSetup
         float scale=1.05f/crate.bounds.size.y;cover.transform.localScale=Vector3.one*scale;
         cover.transform.position=new Vector3(16.5f,4.88f-crate.bounds.min.y*scale,0);
         var hidden=secret.GetComponent<HiddenCoconut>();hidden.coco=coin;hidden.cobertura=cover;
-        var objective=Object.FindObjectsByType<TMP_Text>().SingleOrDefault(t=>t.name=="Objetivo");
+        var objective=InScene<TMP_Text>().SingleOrDefault(t=>t.name=="Objetivo");
         if(objective!=null){Undo.RecordObject(objective,"Agregar pista");objective.text="Reúne 35 puntos. Busca un coco oculto en los balcones del mercado.";}
         mapGo.GetComponent<TilemapCollider2D>().ProcessTilemapChanges();Physics2D.SyncTransforms();
         EditorSceneManager.MarkSceneDirty(SceneManager.GetActiveScene());Undo.CollapseUndoOperations(group);

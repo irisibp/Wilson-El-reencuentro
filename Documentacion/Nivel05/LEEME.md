@@ -43,3 +43,7 @@ Commit en primera persona: `feat: creé la ciudad costera y el reencuentro final
 ## Dificultad adicional: coco oculto
 
 El menu Tools > Wilson > Nivel 5 > Agregar coco oculto y balcones incorpora una ruta elevada al mercado y mueve el coco dorado a una caja oculta. Consultar SecretoDelMercado/LEEME.md para aplicarlo y guardar la escena. Se mantienen 29 cocos y 35 puntos. Los informes originales de esta carpeta registran el nivel antes de este agregado; SecretoDelMercado contiene las nuevas pruebas y capturas.
+
+## Actualización de dificultad
+
+La escena guardada incorpora trampas, huecos ampliados y dos plataformas móviles. Documentacion/DificultadCostera contiene el recorrido actualizado, las capturas y las pruebas. Los informes originales de esta carpeta registran la versión anterior del nivel.

@@ -35,3 +35,7 @@ Commit en primera persona: `feat: creé el nivel de la playa y lo conecté con l
 ## Continuación
 
 Nivel05_CiudadCostera añade el paseo urbano y el reencuentro final con Chuck. Sus pruebas en Documentacion/Nivel05 verifican la nueva transición. Las verificaciones originales de esta carpeta registran el estado al crear el nivel 4.
+
+## Actualización de dificultad
+
+La escena guardada incorpora trampas, huecos ampliados y dos plataformas móviles. Documentacion/DificultadCostera contiene el recorrido actualizado, las capturas y las pruebas. Los informes originales de esta carpeta registran la versión anterior del nivel.

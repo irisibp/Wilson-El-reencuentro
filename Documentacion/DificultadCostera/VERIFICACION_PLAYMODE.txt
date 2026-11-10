@@ -1,0 +1,5 @@
+Nivel 4, MuelleMovil: 6.3 s de viaje, pausas y cambios de sentido; deriva X=0,0000, separacion Y=0,0050.
+Nivel 4, ElevadorDeLaPlaya: 6.3 s de viaje, pausas y cambios de sentido; deriva X=0,0000, separacion Y=0,0141.
+Nivel 5, MuelleMovil: 6.3 s de viaje, pausas y cambios de sentido; deriva X=0,0000, separacion Y=0,0050.
+Nivel 5, ElevadorDelMercado: 6.3 s de viaje, pausas y cambios de sentido; deriva X=0,0000, separacion Y=0,0195.
+PASS ambos niveles: pasajeros horizontales y verticales, pausas y reversas, salto sin emparentar, daño de trampas, inmunidad, reaparicion sin arrastre, dos caidas fisicas, Game Over con OMEN, reintento con plataformas y cocos restaurados; 30 puntos y transicion al 5; coco oculto, 35 puntos y final con Chuck.

@@ -1,0 +1,3 @@
+Unity 6000.6.3f1
+Nivel 4: 33 apoyos fijos y 18 estados de plataformas accesibles; 3594 muestras balisticas; cocos y checkpoint accesibles. Plataformas comprobadas en extremos y punto medio, con espera para abordarlas; radio menos 0.035 de tolerancia.
+Nivel 5: 44 apoyos fijos y 18 estados de plataformas accesibles; 8100 muestras balisticas; cocos y checkpoint accesibles. Plataformas comprobadas en extremos y punto medio, con espera para abordarlas; radio menos 0.035 de tolerancia.

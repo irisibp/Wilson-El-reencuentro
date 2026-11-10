@@ -1,0 +1,3 @@
+PASS Nivel01_PerdidoEnElMar: velocidad horizontal, velocidad vertical preservada, salto y limpieza del movimiento.
+PASS Nivel02_CavernaDeCoral: velocidad horizontal, velocidad vertical preservada, salto y limpieza del movimiento.
+PASS Nivel03_RuinasSumergidas: velocidad horizontal, velocidad vertical preservada, salto y limpieza del movimiento.
